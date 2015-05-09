@@ -1,0 +1,45 @@
+/* Parallax Effect Slides */
+#slide1 {
+  background: url("../img/fort.jpg") 50% 0 no-repeat fixed;
+  height: 900px;
+  margin: 0, auto;
+  padding: 200px 0 260px 0;
+  background-size: cover; }
+
+#slide2 {
+  background-color: #2A9C7A;
+  height: 300px;
+  margin: 0 auto;
+  padding: 200px 0; }
+
+#slide3 {
+  background: url(../img/manhattan.jpg) 50% 0 no-repeat fixed;
+  height: 900px;
+  padding: 170px 0 0 0;
+  background-size: cover; }
+
+#slide4 {
+  background-color: #E94840;
+  height: 300px;
+  padding: 200px 0; }
+
+#slide5 {
+  background: url(../img/sunrise.jpg) 50% 0 no-repeat fixed;
+  height: 900px;
+  margin: 0 auto;
+  padding: 250px 0;
+  background-size: cover; }
+
+#slide6 {
+  background-color: #fff;
+  height: 300px;
+  padding: 200px 0; }
+
+#slide7 {
+  background: url(../img/swordart.jpg) 50% 0 no-repeat fixed;
+  height: 900px;
+  margin: 0 auto;
+  padding: 250px 0;
+  background-size: cover; }
+
+/*# sourceMappingURL=newcss.css.map */
